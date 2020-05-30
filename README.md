@@ -12,6 +12,12 @@ git clone https://github.com/bootsie123/Playscripts-Script-Downloader.git
 npm install
 ```
 
+Alternatively you can install the application with docker.
+
+```bash
+docker pull bootsie123/playscripts-script-downloader
+```
+
 ## Usage (Web Server)
 
 To run the webserver simply run:
