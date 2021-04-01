@@ -7,10 +7,13 @@ A simple node application to download play scripts from [playscripts.com](https:
 Clone the repository using [git](https://git-scm.com/) and then use [npm](https://www.npmjs.com/) to install the node modules.
 
 ```bash
+# Clone the repository
 git clone https://github.com/bootsie123/Playscripts-Script-Downloader.git
 
+# Enter the directory
 cd Playscripts-Script-Downloader
 
+# Install the dependencies
 npm install
 ```
 
