@@ -9,6 +9,8 @@ Clone the repository using [git](https://git-scm.com/) and then use [npm](https:
 ```bash
 git clone https://github.com/bootsie123/Playscripts-Script-Downloader.git
 
+cd Playscripts-Script-Downloader
+
 npm install
 ```
 
