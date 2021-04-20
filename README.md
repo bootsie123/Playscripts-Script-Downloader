@@ -1,5 +1,7 @@
 # Playscripts Script Downloader
 
+[![](https://opengraph.githubassets.com/f46f866d1be4a3f158a74e938997a70833ebb60700de1712369e809a2fdf3f12/bootsie123/Playscripts-Script-Downloader?width=400&height=200)](https://github.com/bootsie123/Playscripts-Script-Downloader)
+
 A simple node application to download play scripts from [playscripts.com](https://playscripts.com). It features a simple webserver to download scripts remotely and an option to download scripts through a command-line interface.
 
 ## Installation
